@@ -1,0 +1,31 @@
+{
+  "name": "darkmoon",
+  "owner": {
+    "name": "ASC-IT",
+    "url": "https://github.com/ASCIT31"
+  },
+  "metadata": {
+    "description": "Darkmoon plugin for Claude Code: drive a self-hosted Darkmoon Pro instance (autonomous AI pentest) over MCP. Requires Darkmoon Pro."
+  },
+  "plugins": [
+    {
+      "name": "darkmoon",
+      "source": "./plugins/darkmoon",
+      "description": "Start an authorized autonomous pentest run on your self-hosted Darkmoon Pro, poll status, list campaigns and read findings. Requires Darkmoon Pro; run_pentest is not read only.",
+      "version": "0.1.0",
+      "author": {
+        "name": "ASC-IT",
+        "url": "https://github.com/ASCIT31"
+      },
+      "homepage": "https://github.com/ASCIT31/Dark-Moon",
+      "license": "GPL-3.0-only",
+      "category": "security",
+      "keywords": [
+        "mcp",
+        "pentest",
+        "security",
+        "darkmoon"
+      ]
+    }
+  ]
+}
