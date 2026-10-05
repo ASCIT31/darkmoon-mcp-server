@@ -2,9 +2,9 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.ASCIT31/darkmoon-mcp-server",
   "title": "Darkmoon",
-  "description": "Drive a self-hosted Darkmoon Pro autonomous AI pentest instance: start runs, poll status, read campaigns and findings.",
+  "description": "Drive a self-hosted Darkmoon Pro AI pentest instance: start runs, read campaigns and findings.",
   "repository": {
-    "url": "https://github.com/ASCIT31/Dark-Moon",
+    "url": "https://github.com/ASCIT31/darkmoon-mcp-server",
     "source": "github"
   },
   "version": "0.1.0",
