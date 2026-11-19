@@ -1,7 +1,7 @@
 # Darkmoon
 
 Drive a self-hosted [Darkmoon](https://github.com/ASCIT31/Dark-Moon) instance from Claude Code.
-Darkmoon is an open source (GPL-3.0) autonomous AI penetration testing platform: an LLM
+Darkmoon is an open source (AGPL-3.0) autonomous AI penetration testing platform: an LLM
 orchestrates specialist agents and offensive tools, and proves findings with real exploits.
 
 ```
@@ -55,4 +55,4 @@ reviewed by a qualified human.
 - MCP server source: <https://github.com/ASCIT31/darkmoon-mcp-server>
 - npm: <https://www.npmjs.com/package/@darkmoon_ai/mcp-server>
 
-License: GPL-3.0-only.
+License: this plugin is GPL-3.0-only, see the repository [LICENSE](https://github.com/ASCIT31/darkmoon-mcp-server/blob/main/LICENSE). Darkmoon itself is AGPL-3.0, see [LICENSING.md](https://github.com/ASCIT31/Dark-Moon/blob/master/LICENSING.md).
