@@ -1,7 +1,7 @@
 # Darkmoon pentest runs
 
 The `darkmoon` MCP server talks to the Dashboard API of a self-hosted Darkmoon Pro instance
-(`DARKMOON_BASE_URL`). The Darkmoon engine and CLI are open source (GPL-3.0), but this server
+(`DARKMOON_BASE_URL`). The Darkmoon engine and CLI are open source (AGPL-3.0), but this server
 needs the Pro dashboard; it does not work against the CLI alone.
 
 ## Authorization first

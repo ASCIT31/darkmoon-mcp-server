@@ -4,7 +4,7 @@
   "description": "Start autonomous AI pentest runs, poll status, list campaigns and read findings from your self-hosted Darkmoon Pro instance. Requires DARKMOON_BASE_URL and credentials; run_pentest launches a real assessment and is not read-only, so only target systems you are authorized to test.",
   "homepage": "https://github.com/ASCIT31/Dark-Moon",
   "repository": "https://github.com/ASCIT31/darkmoon-mcp-server",
-  "license": "GPL-3.0-only",
+  "license": "AGPL-3.0-only",
   "mcpServers": {
     "darkmoon": {
       "command": "npx",

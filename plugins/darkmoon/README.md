@@ -55,4 +55,4 @@ reviewed by a qualified human.
 - MCP server source: <https://github.com/ASCIT31/darkmoon-mcp-server>
 - npm: <https://www.npmjs.com/package/@darkmoon_ai/mcp-server>
 
-License: this plugin is GPL-3.0-only, see the repository [LICENSE](https://github.com/ASCIT31/darkmoon-mcp-server/blob/main/LICENSE). Darkmoon itself is AGPL-3.0, see [LICENSING.md](https://github.com/ASCIT31/Dark-Moon/blob/master/LICENSING.md).
+License: this plugin is AGPL-3.0-only, see the repository [LICENSE](https://github.com/ASCIT31/darkmoon-mcp-server/blob/main/LICENSE) and [LICENSING.md](https://github.com/ASCIT31/darkmoon-mcp-server/blob/main/LICENSING.md) (earlier versions stay GPL-3.0-only). Darkmoon itself is AGPL-3.0, see [LICENSING.md](https://github.com/ASCIT31/Dark-Moon/blob/master/LICENSING.md).
